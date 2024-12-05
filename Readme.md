@@ -2,7 +2,7 @@
 
 * Студент: [Наталья Шакула](https://up.htmlacademy.ru/htmlcss-individual/2/user/2303421).
 * Наставник: [Ярослав Шевцов](https://htmlacademy.ru/profile/redx).
-
+* Сайт: [Мой проект Седона ](https://nsshakula.github.io/2303421-sedona-2/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
